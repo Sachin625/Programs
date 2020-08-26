@@ -1,0 +1,5 @@
+GWashington 88
+JAdams 91
+Ram 95
+Shyam 45
+Seetha 55
